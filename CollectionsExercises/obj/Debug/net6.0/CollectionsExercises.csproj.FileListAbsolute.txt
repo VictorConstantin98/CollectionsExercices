@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\bin\Debug\net6.0\CollectionsExercises.exe
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\bin\Debug\net6.0\CollectionsExercises.deps.json
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\bin\Debug\net6.0\CollectionsExercises.runtimeconfig.json
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\bin\Debug\net6.0\CollectionsExercises.dll
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\bin\Debug\net6.0\ref\CollectionsExercises.dll
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\bin\Debug\net6.0\CollectionsExercises.pdb
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\obj\Debug\net6.0\CollectionsExercises.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\obj\Debug\net6.0\CollectionsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\obj\Debug\net6.0\CollectionsExercises.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\obj\Debug\net6.0\CollectionsExercises.AssemblyInfo.cs
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\obj\Debug\net6.0\CollectionsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\obj\Debug\net6.0\CollectionsExercises.dll
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\obj\Debug\net6.0\ref\CollectionsExercises.dll
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\obj\Debug\net6.0\CollectionsExercises.pdb
+C:\Users\Costi\source\repos\CollectionsExercises\CollectionsExercises\obj\Debug\net6.0\CollectionsExercises.genruntimeconfig.cache
